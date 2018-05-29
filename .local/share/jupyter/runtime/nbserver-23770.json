@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/tcoprea/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/tcoprea/notebooks",
+  "password": false,
+  "pid": 23770,
+  "port": 56585,
+  "secure": false,
+  "token": "5ee8d1ff78f24a35a269647a8f2f0f55",
+  "url": "http://127.0.0.1:56585/user/tcoprea/"
+}
